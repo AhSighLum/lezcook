@@ -1,0 +1,83 @@
+h1 {
+  background-image: url(https://static.pexels.com/photos/8504/wood-explosion-fire-hot.jpg);
+height: 200px;
+background-position: center center;
+background-size: cover;
+font-family: 'Baloo', cursive;
+color: rgba(218, 236, 245, 0.7);
+font-size: 150px;
+text-align: center;
+margin-bottom: 5px;
+border-radius: 5px;
+
+}
+
+
+span {
+  font-size: 20px;
+  color: rgba(218, 236, 245, 0.8);
+  text-shadow: #000 1px 1px 1px;
+
+
+}
+
+div.flex-container {
+display: flex;
+flex-direction: column;
+
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+
+}
+
+div.stuff{
+margin-bottom: 200px;
+
+
+}
+
+div.close {
+display: flex;
+flex-direction: row;
+
+}
+
+div.mininav {
+  width: 33.3%;
+  text-align: center;
+  border-style: solid;
+  height: 100px;
+  background-image: url(lips.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: white;
+}
+
+div.social {
+  width: 33.3%;
+  text-align: center;
+  border-style: solid;
+  height: 100px;
+  background-image: url(splat.jpg);
+  background-size: cover;
+  background-position: bottom center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: white;
+
+}
+
+div.disclaimer {
+  width: 33.3%;
+  text-align: center;
+  border-style: solid;
+  height: 100px;
+  background-image: url(womenp.jpg);
+  background-size: cover;
+  background-position: top center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: white;
+}
